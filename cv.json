@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Bryan A. Borges",
+    "label": "Aspirante a Full Stack Developer",
+    "image": "/me.webp",
+    "email": "bryanborges@outlook.com",
+    "phone": "+52 2499992380",
+    "url": "https://facebook.com/brybor.sh",
+    "summary": "Sin experiencia laboral",
+    "location": {
+      "address": "",
+      "postalCode": "75515",
+      "city": "Cuacnopalan",
+      "countryCode": "MX",
+      "region": "Mexico"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ZbrySH",
+        "url": "https://www.linkedin.com/in/brybor-sh"
+      },
+      {
+        "network": "X",
+        "username": "ZbrySH",
+        "url": "https://x.com/brybor_sh"
+      },
+      {
+        "network": "GitHub",
+        "username": "ZbrySH",
+        "url": "https://github.com/bryborjes"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ZbrySH",
+      "position": "Estudiante en Técnico en Programación",
+      "url": "https://facebook.com/brybor.sh",
+      "startDate": "2021-08-18",
+      "endDate": "2024-08-18",
+      "summary": "",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "CBTis 254",
+      "url": "https://facebook.com/CBTISNo254",
+      "area": "Técnico en Programación", 
+      "studyType": "Vespertino",
+      "startDate": "2021-08-18",
+      "endDate": "2021-08-18",
+      "score": "Indefinido",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Medium",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Medium",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Medium",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Medium",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Male",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Medium",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Medium",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Medium",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish Mexican",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anti PN",
+      "isActive": true,
+      "description": "Aplicación para personas que procrastinan mucho",
+      "highlights": [
+        "Programa tus actividades",
+        "En desarrollo"
+      ],
+      "url": "https://antipn.vercel.app"
+    }
+  ]
+}
