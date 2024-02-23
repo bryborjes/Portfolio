@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Bryan A. Borges",
+    "name": "Bryan Albino Borges",
     "label": "Aspirante a Full Stack Developer",
     "image": "/me.webp",
     "email": "bryanborges@outlook.com",
@@ -34,8 +34,8 @@
   },
   "work": [
     {
-      "name": "ZbrySH",
-      "position": "Estudiante en Técnico en Programación",
+      "name": "Bryan Albino Borges",
+      "position": "Estudiante de Técnico en Programación",
       "url": "https://facebook.com/brybor.sh",
       "startDate": "2021-08-18",
       "endDate": "2024-08-18",
@@ -50,9 +50,9 @@
       "institution": "CBTis 254",
       "url": "https://facebook.com/CBTISNo254",
       "area": "Técnico en Programación", 
-      "studyType": "Vespertino",
+      "studyType": "Matutino",
       "startDate": "2021-08-18",
-      "endDate": "2021-08-18",
+      "endDate": "2024-08-18",
       "score": "Indefinido",
       "courses": [
         "DB1101 - Basic SQL"
@@ -123,42 +123,12 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Male",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Medium",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
       "name": "Git",
       "level": "Medium",
       "keywords": [
         "Control de Versiones",
         "Colaboración",
         "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Medium",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
       ]
     }
   ],
